@@ -6,7 +6,7 @@
 **👉 You can download YAKA's artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
 
 ### Contribute
-**👋 You can contribute by push your patches / fixes about yak-parsers in [this repository](https://github.com/YAKATeam/yak-parsers). You can also add / edit translations [here](https://github.com/YAKATeam/translate).**
+**👋 You can contribute by push your patches / fixes about parsers in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit translations [here](https://github.com/YAKATeam/translate).**
 
 -----------------
 
@@ -16,11 +16,11 @@ https://github.com/YakaTeam/translate
 
 ### Parsers (Source code)
 
-https://github.com/YakaTeam/yak-parsers
+https://github.com/YakaTeam/kotatsu-parsers
 
 ### Report parsers issues
 
-https://github.com/YakaTeam/yak-parsers/issues/new/
+https://github.com/YakaTeam/kotatsu-parsers/issues/new/
 
 ****
 
